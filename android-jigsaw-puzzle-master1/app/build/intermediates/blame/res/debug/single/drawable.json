@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\darkwood.jpg",
+        "source": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\src\\main\\res\\drawable\\darkwood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy_kitten.jpg",
+        "source": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\src\\main\\res\\drawable\\happy_kitten.jpg"
+    },
+    {
+        "merged": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitten_large.jpg",
+        "source": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\src\\main\\res\\drawable\\kitten_large.jpg"
+    },
+    {
+        "merged": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.jpg",
+        "source": "C:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\src\\main\\res\\drawable\\test.jpg"
+    }
+]

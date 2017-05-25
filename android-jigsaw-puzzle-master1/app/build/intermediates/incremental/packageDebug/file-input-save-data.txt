@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat May 20 15:55:13 CST 2017
+2.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_51dc82792c3625be3e01f2f1b10c7d24cea4ceda
+5.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\puzzle_layout.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\kitten_large.jpg
+2.set=DEX
+4.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66ded47ab4feb59b00a553d9fcc743da36092d11
+7.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\happy_kitten.jpg
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\test.jpg
+5.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\background.jpg
+4.set=DEX
+6.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_51dc82792c3625be3e01f2f1b10c7d24cea4ceda\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\darkwood.jpg
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66ded47ab4feb59b00a553d9fcc743da36092d11\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

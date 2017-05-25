@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\16JUNE29\Downloads\android-jigsaw-puzzle-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\16JUNE29\Downloads\android-jigsaw-puzzle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_66ded47ab4feb59b00a553d9fcc743da36092d11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\16JUNE29\Downloads\android-jigsaw-puzzle-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae56af5df4916754a80660113a6ecd24b39e25e8">
+        <dex dex="C:\Users\16JUNE29\Downloads\android-jigsaw-puzzle-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_51dc82792c3625be3e01f2f1b10c7d24cea4ceda\classes.dex" />
+    </item>
+
+</items>

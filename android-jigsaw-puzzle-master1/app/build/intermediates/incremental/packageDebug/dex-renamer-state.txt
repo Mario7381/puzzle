@@ -1,0 +1,7 @@
+#Sat May 20 15:55:13 CST 2017
+base.0=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_51dc82792c3625be3e01f2f1b10c7d24cea4ceda
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66ded47ab4feb59b00a553d9fcc743da36092d11\\classes.dex
+base.1=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_66ded47ab4feb59b00a553d9fcc743da36092d11
+file.0=C\:\\Users\\16JUNE29\\Downloads\\android-jigsaw-puzzle-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_51dc82792c3625be3e01f2f1b10c7d24cea4ceda\\classes.dex
